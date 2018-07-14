@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{1AB7DDA4-A3B0-4D3E-8ECD-7E9C053E281E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MotionDetector/MotionDetector/Pages/Maqueta.xaml">
+    <Files>
+      <File FileName="MotionDetector/MotionDetector/Pages/Maqueta.xaml" Line="13" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MotionDetector.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.9307e2dbb70d57ba4443adf80c1fccc2a1f22ac1" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector/Pages/Maqueta.xaml.cs" relfile="MotionDetector/MotionDetector/Pages/Maqueta.xaml.cs" line="55" column="39" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="MotionDetector/MotionDetector.iOS/AppDelegate.cs" line="82" offsetX="547" offsetY="1321" expression="degrees" liveUpdate="True" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MotionDetector.Android PreferredExecutionTarget="Android.SelectDevice" />
+</Properties>

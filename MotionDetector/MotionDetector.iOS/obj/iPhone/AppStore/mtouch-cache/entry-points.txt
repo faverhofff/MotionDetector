@@ -1,0 +1,26 @@
+Function=xamarin_timezone_get_data
+	/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_log
+	/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/mscorlib.dll
+Function=CreateZStream
+	/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/System.dll
+Function=CloseZStream
+	/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/System.dll
+Function=Flush
+	/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/System.dll
+Function=ReadZStream
+	/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/System.dll
+Function=WriteZStream
+	/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/System.dll
+Function=xamarin_start_wwan
+	/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/System.dll
+Function=UIApplicationMain
+	/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/Xamarin.iOS.dll

@@ -1,0 +1,377 @@
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.iOS.exe.config
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.iOS.exe
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.iOS.pdb
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Extras.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Platform.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Microsoft.Practices.ServiceLocation.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Rg.Plugins.Popup.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Rg.Plugins.Popup.IOS.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Rg.Plugins.Popup.Platform.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.pdb
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.dll.mdb
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.dll.config
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.pdb
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.xml
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Extras.pdb
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Extras.xml
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Platform.xml
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Microsoft.Practices.ServiceLocation.pdb
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Microsoft.Practices.ServiceLocation.xml
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.pdb
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll.mdb
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.xml
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll.mdb
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.pdb
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.xml
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/Black.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/ios640x960.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/ios640x1136.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/ios750x1334.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/ios1242x2208.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/icon.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off01.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off02.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off03.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off04.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off05.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off06.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off07.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off08.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off09.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off10.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off11.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off12.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on01.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on02.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on03.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on04.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on05.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on06.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on07.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on08.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on09.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on10.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on11.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on12.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/pinBlack.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/pinView.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/img_circle.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/img_circle@2x.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/img_circle_filled.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/img_circle_filled@2x.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/avatar.png
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/MotionDetector.iOS.csprojResolveAssemblyReference.cache
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/MotionDetector.iOS.csproj.CoreCompileInputs.cache
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/MotionDetector.iOS.exe
+/Finder/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/MotionDetector.iOS.pdb
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.iOS.exe.config
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.iOS.exe
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.iOS.pdb
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Extras.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Platform.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Microsoft.Practices.ServiceLocation.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Rg.Plugins.Popup.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Rg.Plugins.Popup.IOS.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Rg.Plugins.Popup.Platform.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.pdb
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.dll.config
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.pdb
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.xml
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Extras.pdb
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Extras.xml
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Platform.xml
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Microsoft.Practices.ServiceLocation.pdb
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Microsoft.Practices.ServiceLocation.xml
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.pdb
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.xml
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll.mdb
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.pdb
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.pdb
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.xml
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll.mdb
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/MotionDetector.iOS.csprojResolveAssemblyReference.cache
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/MotionDetector.iOS.csproj.CoreCompileInputs.cache
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/MotionDetector.iOS.exe
+D:/WORK/Xamarin/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/MotionDetector.iOS.pdb
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.iOS.exe.config
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.iOS.exe
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.iOS.pdb
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Extras.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Platform.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Microsoft.Practices.ServiceLocation.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Rg.Plugins.Popup.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Rg.Plugins.Popup.IOS.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Rg.Plugins.Popup.Platform.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.pdb
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.dll.config
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.pdb
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.xml
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Extras.pdb
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Extras.xml
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Platform.xml
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Microsoft.Practices.ServiceLocation.pdb
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Microsoft.Practices.ServiceLocation.xml
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.pdb
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.xml
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll.mdb
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.pdb
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.pdb
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.xml
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll.mdb
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/MotionDetector.iOS.csprojResolveAssemblyReference.cache
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/MotionDetector.iOS.csproj.CoreCompileInputs.cache
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/MotionDetector.iOS.exe
+E:/WORK Mio/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/MotionDetector.iOS.pdb
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.iOS.exe.config
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.iOS.exe
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.iOS.pdb
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Extras.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Platform.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Rg.Plugins.Popup.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Rg.Plugins.Popup.IOS.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Rg.Plugins.Popup.Platform.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.pdb
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.dll.mdb
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/MotionDetector.dll.config
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.pdb
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.xml
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Extras.pdb
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Extras.xml
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/GalaSoft.MvvmLight.Platform.xml
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Microsoft.Practices.ServiceLocation.pdb
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Microsoft.Practices.ServiceLocation.xml
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.pdb
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.xml
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.pdb
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.xml
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/bin/iPhone/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/Black.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/ios640x960.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/ios640x1136.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/ios750x1334.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/ios1242x2208.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/icon.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off01.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off02.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off04.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off05.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off07.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off08.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off10.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off11.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off12.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on01.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on02.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on04.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on05.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on07.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on08.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on10.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on11.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on12.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/pinBlack.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/pinView.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/img_circle.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/img_circle@2x.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/img_circle_filled.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/img_circle_filled@2x.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/avatar.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off03.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off06.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/off09.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on03.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on06.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/on09.png
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/optimized/
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/MotionDetector.iOS.csprojResolveAssemblyReference.cache
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/MotionDetector.iOS.csproj.CoreCompileInputs.cache
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/MotionDetector.iOS.exe
+/Users/macpro/Desktop/MotionDetector/MotionDetector/MotionDetector.iOS/obj/iPhone/Debug/MotionDetector.iOS.pdb

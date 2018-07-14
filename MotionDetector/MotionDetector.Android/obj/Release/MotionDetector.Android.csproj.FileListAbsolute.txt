@@ -1,0 +1,450 @@
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android.dll.config
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android.apk
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android-Signed.apk
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\FormsViewGroup.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Extras.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Platform.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Rg.Plugins.Popup.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Rg.Plugins.Popup.Droid.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Rg.Plugins.Popup.Platform.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Annotations.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Compat.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Core.UI.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Design.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Fragment.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Transition.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v4.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v7.Palette.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Core.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Platform.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Xaml.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.dll.config
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\FormsViewGroup.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\FormsViewGroup.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Extras.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Extras.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Platform.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Platform.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Microsoft.Practices.ServiceLocation.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Microsoft.Practices.ServiceLocation.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Core.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Core.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Xaml.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\MotionDetector.Android.csprojResolveAssemblyReference.cache
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\MotionDetector.Android.csproj.CoreCompileInputs.cache
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\MotionDetector.Android.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\MotionDetector.Android.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\bin\MotionDetector.Android.apk
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\cinco.ogg
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\cuatro.ogg
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\diez.ogg
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\doce.ogg
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\dos.ogg
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\nueve.ogg
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\ocho.ogg
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\once.ogg
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\seis.ogg
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\siete.ogg
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\tres.ogg
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\uno.ogg
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\icon.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-hdpi\icon.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xhdpi\icon.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xxhdpi\icon.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off01.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off02.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off03.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off04.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off05.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off06.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off07.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off08.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off09.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off10.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off11.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off12.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\layout\tabbar.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\layout\toolbar.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\values\styles.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\values\notitletheme.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on01.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on02.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on03.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on04.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on05.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on06.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on07.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on08.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on09.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on10.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on11.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on12.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\black.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\pinblack.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\pinview.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\bkg_roundedview.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\img_circle.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\img_circle_filled.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-hdpi\img_circle.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-hdpi\img_circle_filled.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xhdpi\img_circle.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xhdpi\img_circle_filled.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\avatar.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\splash_centered.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-hdpi\black.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xhdpi\black.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xxhdpi\black.png
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\R.cs.flag
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\uploadflags.txt
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\GalaSoft.MvvmLight.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\Microsoft.Practices.ServiceLocation.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\MotionDetector.Android.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\MotionDetector.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android.dll.config
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android.apk
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android-Signed.apk
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\FormsViewGroup.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Extras.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Platform.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Rg.Plugins.Popup.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Rg.Plugins.Popup.Droid.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Rg.Plugins.Popup.Platform.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Annotations.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Compat.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Core.UI.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Design.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Fragment.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Transition.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v4.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v7.Palette.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Core.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Platform.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Xaml.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.dll.config
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\FormsViewGroup.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\FormsViewGroup.dll.mdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.dll.mdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Extras.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Extras.dll.mdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Platform.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Platform.dll.mdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Microsoft.Practices.ServiceLocation.dll.mdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Core.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Core.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Xaml.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\MotionDetector.Android.csprojResolveAssemblyReference.cache
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\MotionDetector.Android.csproj.CoreCompileInputs.cache
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\MotionDetector.Android.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\MotionDetector.Android.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\bin\MotionDetector.Android.apk
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\cinco.ogg
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\cuatro.ogg
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\diez.ogg
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\doce.ogg
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\dos.ogg
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\nueve.ogg
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\ocho.ogg
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\once.ogg
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\seis.ogg
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\siete.ogg
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\tres.ogg
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\uno.ogg
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\icon.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-hdpi\icon.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xhdpi\icon.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xxhdpi\icon.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off01.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off02.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off03.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off04.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off05.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off06.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off07.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off08.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off09.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off10.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off11.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off12.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\layout\tabbar.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\layout\toolbar.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\values\styles.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\values\notitletheme.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on01.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on02.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on03.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on04.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on05.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on06.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on07.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on08.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on09.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on10.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on11.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on12.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\black.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\pinblack.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\pinview.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\bkg_roundedview.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\img_circle.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\img_circle_filled.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-hdpi\img_circle.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-hdpi\img_circle_filled.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xhdpi\img_circle.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xhdpi\img_circle_filled.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\avatar.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\splash_centered.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-hdpi\black.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xhdpi\black.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xxhdpi\black.png
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\R.cs.flag
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\uploadflags.txt
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\MotionDetector.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android.dll.config
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android.apk
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android-Signed.apk
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\FormsViewGroup.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Extras.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Platform.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Rg.Plugins.Popup.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Rg.Plugins.Popup.Droid.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Rg.Plugins.Popup.Platform.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Annotations.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Compat.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Core.UI.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Design.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Fragment.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Transition.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v4.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v7.Palette.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Core.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Platform.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Xaml.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.dll.config
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\FormsViewGroup.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\FormsViewGroup.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Extras.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Extras.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Platform.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\GalaSoft.MvvmLight.Platform.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Microsoft.Practices.ServiceLocation.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Core.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Core.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Xaml.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\MotionDetector.Android.csprojAssemblyReference.cache
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\MotionDetector.Android.csproj.CoreCompileInputs.cache
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\MotionDetector.Android.csproj.CopyComplete
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\MotionDetector.Android.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\MotionDetector.Android.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\bin\MotionDetector.Android.apk
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-hdpi\black.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\cinco.ogg
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\cuatro.ogg
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\diez.ogg
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\doce.ogg
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\dos.ogg
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\nueve.ogg
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\ocho.ogg
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\once.ogg
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\seis.ogg
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\siete.ogg
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\tres.ogg
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\raw\uno.ogg
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\icon.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-hdpi\icon.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xhdpi\icon.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xxhdpi\icon.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off01.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off02.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off03.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off04.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off05.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off06.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off07.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off08.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off09.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off10.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off11.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off12.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\layout\tabbar.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\layout\toolbar.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\values\styles.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\off.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\values\notitletheme.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on01.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on02.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on03.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on04.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on05.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on06.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on07.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on08.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on09.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on10.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on11.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\on12.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\black.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\pinblack.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\pinview.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\bkg_roundedview.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\img_circle.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\img_circle_filled.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-hdpi\img_circle.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-hdpi\img_circle_filled.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xhdpi\img_circle.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xhdpi\img_circle_filled.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\avatar.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable\splash_centered.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xhdpi\black.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\res\drawable-xxhdpi\black.png
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\R.cs.flag
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\R.txt
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\uploadflags.txt
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\Mono.Android.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\Mono.Android.Export.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\mscorlib.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\System.Core.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\System.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\System.Xml.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\System.Xml.Linq.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\System.ComponentModel.Composition.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\System.Net.Http.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\System.Runtime.Serialization.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\System.ServiceModel.Internals.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\Mono.Security.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\MotionDetector.Android.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\FormsViewGroup.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\GalaSoft.MvvmLight.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\GalaSoft.MvvmLight.Extras.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\GalaSoft.MvvmLight.Platform.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\Microsoft.Practices.ServiceLocation.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\MotionDetector.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\GalaSoft.MvvmLight.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\Microsoft.Practices.ServiceLocation.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\MotionDetector.Android.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\MotionDetector.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\Mono.Android.Export.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\Mono.Android.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\Mono.Security.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\mscorlib.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\System.Core.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\System.Net.Http.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\System.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\System.Runtime.Serialization.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\System.ServiceModel.Internals.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\android\assets\System.Xml.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.Android.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\MotionDetector.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\bin\Release\MotionDetector.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\MotionDetector.Android.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\FormsViewGroup.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\GalaSoft.MvvmLight.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\GalaSoft.MvvmLight.Extras.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\GalaSoft.MvvmLight.Platform.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\Microsoft.Practices.ServiceLocation.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\MotionDetector.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector.Android\obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb
