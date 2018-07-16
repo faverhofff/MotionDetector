@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             x:Class="MotionDetector.Views.PopupHoldPage"
+             x:Name="ParentLayout">
+
+    <ContentView BackgroundColor="{StaticResource SeeThrough}" HorizontalOptions="Fill" VerticalOptions="Fill">
+        <ContentView Padding="0,0,0,10" HorizontalOptions="Fill" VerticalOptions="CenterAndExpand" Style="{StaticResource MenuStyle}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="60"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <ContentView  Grid.Row="0" Style="{StaticResource PopupHeaderStyle}">
+                    <Label Style="{StaticResource PopupHeaderTextStyle}" Text="TIME BEFORE FALSE SCREEN LOCK" VerticalOptions="Center"/>
+                </ContentView>
+
+                <StackLayout Orientation="Vertical" Grid.Row="1">
+
+                    <StackLayout Style="{StaticResource ContentStyle}"  Orientation="Vertical">
+                        <Entry Placeholder="Time" Text="{Binding Source={x:Reference ParentLayout}, Path=HoldTime}" Keyboard="Numeric"/>
+                    </StackLayout>
+
+                    <ContentView Style="{StaticResource Separator}"></ContentView>
+
+                    <Grid HeightRequest="10"></Grid>
+
+                    <Grid Style="{StaticResource ContentStyle}">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <!--<ColumnDefinition Width="10"></ColumnDefinition>-->
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="OkButton" Text="Ok" Clicked="OkButton_OnClicked"></Button>
+                        <Button x:Name="CancelButton" Text="Cancel" Grid.Column="1" Clicked="Button_OnClicked"></Button>
+                    </Grid>
+                </StackLayout>
+            </Grid>
+        </ContentView>
+    </ContentView>
+</pages:PopupPage>

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:views="clr-namespace:MotionDetector.Views;assembly=MotionDetector"
+             x:Class="MotionDetector.Views.PinView">
+    <ContentView.Content>
+        <Grid
+            RowSpacing="18">
+            <Grid.Margin>
+                <OnIdiom
+                    x:TypeArguments="Thickness">
+                    <OnIdiom.Phone>6,6</OnIdiom.Phone>
+                    <OnIdiom.Tablet>160,6</OnIdiom.Tablet>
+                </OnIdiom>
+            </Grid.Margin>
+            <Grid.RowDefinitions>
+                <!-- Title -->
+                <RowDefinition
+                    Height="Auto" />
+                <!-- Dots -->
+                <RowDefinition
+                    Height="44" />
+                <!-- 1 2 3 -->
+                <RowDefinition
+                    Height="60" />
+                <!-- 4 5 6 -->
+                <RowDefinition
+                    Height="60" />
+                <!-- 7 8 9 -->
+                <RowDefinition
+                    Height="60" />
+                <!--   0 <- -->
+                <RowDefinition
+                    Height="60" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition
+                    Width="84" />
+                <ColumnDefinition
+                    Width="84" />
+                <ColumnDefinition
+                    Width="84" />
+            </Grid.ColumnDefinitions>
+            <StackLayout Grid.Row="0"
+                         Grid.ColumnSpan="3" >
+                <Label
+                    x:Name="titleLabel"
+                    FontSize="Medium"
+                    HorizontalTextAlignment="Center"
+                />
+                <Label x:Name="validationLabel" Text="Wrong Passcode" HorizontalTextAlignment="Start" IsVisible="False"></Label>
+            </StackLayout>
+            <StackLayout
+                x:Name="circlesStackLayout"
+                HorizontalOptions="CenterAndExpand"
+                Orientation="Horizontal"
+                Grid.Row="1"
+                Grid.ColumnSpan="3">
+            </StackLayout>
+            <views:PinItemView
+                Text="1"
+                Grid.Column="0"
+                Grid.Row="2"
+                Command="{Binding KeyPressCommand}"
+                CommandParameter="1" />
+            <views:PinItemView
+                Text="2"
+                Grid.Column="1"
+                Grid.Row="2"
+                Command="{Binding KeyPressCommand}"
+                CommandParameter="2" />
+            <views:PinItemView
+                Text="3"
+                Grid.Column="2"
+                Grid.Row="2"
+                Command="{Binding KeyPressCommand}"
+                CommandParameter="3" />
+            <views:PinItemView
+                Text="4"
+                Grid.Column="0"
+                Grid.Row="3"
+                Command="{Binding KeyPressCommand}"
+                CommandParameter="4" />
+            <views:PinItemView
+                Text="5"
+                Grid.Column="1"
+                Grid.Row="3"
+                Command="{Binding KeyPressCommand}"
+                CommandParameter="5" />
+            <views:PinItemView
+                Text="6"
+                Grid.Column="2"
+                Grid.Row="3"
+                Command="{Binding KeyPressCommand}"
+                CommandParameter="6" />
+            <views:PinItemView
+                Text="7"
+                Grid.Column="0"
+                Grid.Row="4"
+                Command="{Binding KeyPressCommand}"
+                CommandParameter="7" />
+            <views:PinItemView
+                Text="8"
+                Grid.Column="1"
+                Grid.Row="4"
+                Command="{Binding KeyPressCommand}"
+                CommandParameter="8" />
+            <views:PinItemView
+                Text="9"
+                Grid.Column="2"
+                Grid.Row="4"
+                Command="{Binding KeyPressCommand}"
+                CommandParameter="9" />
+            <views:PinItemView
+                Text="0"
+                Grid.Column="1"
+                Grid.Row="5"
+                Command="{Binding KeyPressCommand}"
+                CommandParameter="0" />
+            <views:PinItemView
+                Grid.Column="2"
+                Grid.Row="5"
+                Command="{Binding KeyPressCommand}"
+                CommandParameter="Backspace">
+                <views:PinItemView.Text>
+                    <OnPlatform
+                        x:TypeArguments="x:String">
+                        <OnPlatform.iOS>⌫</OnPlatform.iOS>
+                        <OnPlatform.Android>✕</OnPlatform.Android>
+                    </OnPlatform>
+                </views:PinItemView.Text>
+            </views:PinItemView>
+        </Grid>
+    </ContentView.Content>
+</ContentView>

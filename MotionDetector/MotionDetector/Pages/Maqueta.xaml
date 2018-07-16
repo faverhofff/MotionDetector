@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:converter="clr-namespace:MotionDetector.Converter;assembly=MotionDetector"
+             xmlns:motionDetector="clr-namespace:MotionDetector;assembly=MotionDetector"
+             x:Class="MotionDetector.Maqueta"
+             BackgroundColor="Black"
+             x:Name="MaquetaContentPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converter:ChangeImageByBool x:Key="ChangeImageByBool" />
+            <converter:ChangeBoolValue x:Key="ChangeBoolValue"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+        <AbsoluteLayout>
+           <!--<Grid
+                   AbsoluteLayout.LayoutBounds="0, 0, 1, 0.04"
+                   AbsoluteLayout.LayoutFlags="All"
+                   BackgroundColor="Black">
+               <Grid.ColumnDefinitions>
+                   <ColumnDefinition/>
+                   <ColumnDefinition/>
+               </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Text="{Binding Position}"/>
+            <Label Grid.Column="1" Text="{Binding Target}"/>
+           </Grid>-->
+
+            <Image x:Name="Pass"
+                   Source="pinBlack.png"
+                   BackgroundColor="Black"
+                   AbsoluteLayout.LayoutBounds="0, 0, 1, 0.9"
+                   AbsoluteLayout.LayoutFlags="All"
+                   IsVisible="{Binding IsVisible, Converter={StaticResource ChangeBoolValue}}"
+                   motionDetector:LongPressedEffect.Command="{Binding Source={x:Reference MaquetaContentPage}, Path= SetPasswordCommand}" motionDetector:LongPressedEffect.CommandParameter="12"
+                   motionDetector:TapPressedEffect.Command="{Binding Source={x:Reference MaquetaContentPage}, Path= SetPasswordCommand}" motionDetector:TapPressedEffect.CommandParameter="12">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding Source={x:Reference MaquetaContentPage}, Path= SetPasswordCommand}"/>
+                </Image.GestureRecognizers>
+            <Image.Effects>
+                <motionDetector:LongPressedEffect />
+                <motionDetector:TapPressedEffect />
+            </Image.Effects>
+        </Image>
+
+            <Image x:Name="Empty1"
+                   BackgroundColor="Black"
+                   AbsoluteLayout.LayoutBounds="0, 0, 1, 0.02"
+                   AbsoluteLayout.LayoutFlags="All"
+                   IsVisible="{Binding IsVisible}"
+                   motionDetector:LongPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:LongPressedEffect.CommandParameter="12"
+                   motionDetector:TapPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:TapPressedEffect.CommandParameter="12"
+                   >
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding ChangeCurrentBarCommand}" CommandParameter="12"></TapGestureRecognizer>
+                </Image.GestureRecognizers>
+            <Image.Effects>
+                <motionDetector:LongPressedEffect />
+                <motionDetector:TapPressedEffect />
+            </Image.Effects>
+        </Image>
+
+        <Image x:Name="Off12" 
+                  Source="on12.png"
+                  Aspect="Fill"
+                  BackgroundColor="Black"
+                  AbsoluteLayout.LayoutBounds="0, 0.02, 1, 0.06"
+                  AbsoluteLayout.LayoutFlags="All"
+                  IsVisible="{Binding IsVisible}"
+                  motionDetector:LongPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:LongPressedEffect.CommandParameter="12"
+                  motionDetector:TapPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:TapPressedEffect.CommandParameter="12"
+               >
+               <Image.GestureRecognizers>
+                   <TapGestureRecognizer Command="{Binding ChangeCurrentBarCommand}" CommandParameter="12"></TapGestureRecognizer>
+               </Image.GestureRecognizers>
+               <Image.Triggers>
+                   <DataTrigger TargetType="Image"
+                                Binding="{Binding Bar12}"
+                                Value="False">
+                       <Setter Property="Source" Value="off12.png" />
+                   </DataTrigger>
+               </Image.Triggers>
+            <Image.Effects>
+                <motionDetector:LongPressedEffect />
+                <motionDetector:TapPressedEffect />
+            </Image.Effects>
+        </Image>
+
+           <Image x:Name="Off11" 
+                  Source="on11.png"
+                  Aspect="Fill"
+                  BackgroundColor="Black"
+                  AbsoluteLayout.LayoutBounds="0, 0.08, 1, 0.06"
+                  AbsoluteLayout.LayoutFlags="All"
+                  IsVisible="{Binding IsVisible}"
+                  motionDetector:LongPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:LongPressedEffect.CommandParameter="11"
+                  motionDetector:TapPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:TapPressedEffect.CommandParameter="11"
+                  >
+            <Image.GestureRecognizers>
+                   <TapGestureRecognizer Command="{Binding ChangeCurrentBarCommand}" CommandParameter="11"/>
+               </Image.GestureRecognizers>
+               <Image.Triggers>
+                   <DataTrigger TargetType="Image"
+                                Binding="{Binding Bar11}"
+                                Value="False">
+                       <Setter Property="Source" Value="off11.png" />
+                   </DataTrigger>
+               </Image.Triggers>
+            <Image.Effects>
+                <motionDetector:LongPressedEffect />
+                <motionDetector:TapPressedEffect />
+            </Image.Effects  >
+        </Image>
+
+           <Image x:Name="Off10" 
+                  Source="on10.png"
+                  Aspect="Fill"
+                  BackgroundColor="Black"
+                  AbsoluteLayout.LayoutBounds="0, 0.14, 1, 0.06"
+                  AbsoluteLayout.LayoutFlags="All"
+                  IsVisible="{Binding IsVisible}"
+                  motionDetector:LongPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:LongPressedEffect.CommandParameter="10"
+                  motionDetector:TapPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:TapPressedEffect.CommandParameter="10">
+            <Image.GestureRecognizers>
+                   <TapGestureRecognizer Command="{Binding ChangeCurrentBarCommand}" CommandParameter="10"/>
+               </Image.GestureRecognizers>
+               <Image.Triggers>
+                   <DataTrigger TargetType="Image"
+                                Binding="{Binding Bar10}"
+                                Value="False">
+                       <Setter Property="Source" Value="off10.png" />
+                   </DataTrigger>
+               </Image.Triggers>
+            <Image.Effects>
+                <motionDetector:LongPressedEffect />
+                <motionDetector:TapPressedEffect />
+            </Image.Effects>
+        </Image>
+
+           <!--<Image x:Name="Empty2" 
+                  BackgroundColor="Black"
+                  AbsoluteLayout.LayoutBounds="0, 0.20, 1, 0.02"
+                  AbsoluteLayout.LayoutFlags="All"
+                  IsVisible="{Binding IsVisible}">
+            <Image.GestureRecognizers>
+                <TapGestureRecognizer Command="{Binding ChangeCurrentBarCommand}" CommandParameter="-1"></TapGestureRecognizer>
+            </Image.GestureRecognizers>
+           </Image>-->
+
+           <Image x:Name="Off09" Source="on09.png"
+                  Aspect="Fill"
+                  BackgroundColor="Black"
+                  AbsoluteLayout.LayoutBounds="0, 0.20, 1, 0.08"
+                  AbsoluteLayout.LayoutFlags="All"
+                  IsVisible="{Binding IsVisible}"
+                  motionDetector:LongPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:LongPressedEffect.CommandParameter="9"
+                  motionDetector:TapPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:TapPressedEffect.CommandParameter="9">
+            <Image.GestureRecognizers>
+                   <TapGestureRecognizer Command="{Binding ChangeCurrentBarCommand}" CommandParameter="9"/>
+               </Image.GestureRecognizers>
+               <Image.Triggers>
+                   <DataTrigger TargetType="Image"
+                                Binding="{Binding Bar9}"
+                                Value="False">
+                       <Setter Property="Source" Value="off09.png" />
+                   </DataTrigger>
+               </Image.Triggers>
+            <Image.Effects>
+                <motionDetector:LongPressedEffect />
+                <motionDetector:TapPressedEffect />
+            </Image.Effects>
+        </Image>
+
+        <Image x:Name="Off08" Source="on08.png"
+                  Aspect="Fill"
+                  BackgroundColor="Black"
+                  AbsoluteLayout.LayoutBounds="0, 0.28, 1, 0.06"
+                  AbsoluteLayout.LayoutFlags="All"
+                  IsVisible="{Binding IsVisible}"
+                  motionDetector:LongPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:LongPressedEffect.CommandParameter="8"
+               motionDetector:TapPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:TapPressedEffect.CommandParameter="8">
+            <Image.GestureRecognizers>
+                   <TapGestureRecognizer Command="{Binding ChangeCurrentBarCommand}" CommandParameter="8"/>
+               </Image.GestureRecognizers>
+               <Image.Triggers>
+                   <DataTrigger TargetType="Image"
+                                Binding="{Binding Bar8}"
+                                Value="False">
+                       <Setter Property="Source" Value="off08.png" />
+                   </DataTrigger>
+               </Image.Triggers>
+            <Image.Effects>
+                <motionDetector:LongPressedEffect />
+                <motionDetector:TapPressedEffect />
+            </Image.Effects>
+        </Image>
+
+        <Image x:Name="Off07" Source="on07.png"
+                  Aspect="Fill"
+                  BackgroundColor="Black"
+                  AbsoluteLayout.LayoutBounds="0, 0.34, 1, 0.06"
+                  AbsoluteLayout.LayoutFlags="All"
+                  IsVisible="{Binding IsVisible}"
+                  motionDetector:LongPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:LongPressedEffect.CommandParameter="7"
+               motionDetector:TapPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:TapPressedEffect.CommandParameter="7">
+            <Image.GestureRecognizers>
+                   <TapGestureRecognizer Command="{Binding ChangeCurrentBarCommand}" CommandParameter="7"/>
+               </Image.GestureRecognizers>
+               <Image.Triggers>
+                   <DataTrigger TargetType="Image"
+                                Binding="{Binding Bar7}"
+                                Value="False">
+                       <Setter Property="Source" Value="off07.png" />
+                   </DataTrigger>
+               </Image.Triggers>
+            <Image.Effects>
+                <motionDetector:LongPressedEffect />
+                <motionDetector:TapPressedEffect />
+            </Image.Effects>
+        </Image>
+
+           <!--<Image x:Name="Empty3" 
+                  BackgroundColor="Black"
+                  AbsoluteLayout.LayoutBounds="0, 0.40, 1, 0.02"
+                  AbsoluteLayout.LayoutFlags="All"
+                  IsVisible="{Binding IsVisible}">
+               <Image.GestureRecognizers>
+                   <TapGestureRecognizer Command="{Binding ChangeCurrentBarCommand}" CommandParameter="-1"></TapGestureRecognizer>
+               </Image.GestureRecognizers>
+        </Image>-->
+
+           <Image x:Name="Off06" Source="on06.png"
+                  Aspect="Fill"
+                  BackgroundColor="Black"
+                  AbsoluteLayout.LayoutBounds="0, 0.41, 1, 0.07"
+                  AbsoluteLayout.LayoutFlags="All"
+                  IsVisible="{Binding IsVisible}"
+                  motionDetector:LongPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:LongPressedEffect.CommandParameter="6"
+                  motionDetector:TapPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:TapPressedEffect.CommandParameter="6">
+            <Image.GestureRecognizers>
+                   <TapGestureRecognizer Command="{Binding ChangeCurrentBarCommand}" CommandParameter="6"/>
+               </Image.GestureRecognizers>
+               <Image.Triggers>
+                   <DataTrigger TargetType="Image"
+                                Binding="{Binding Bar6}"
+                                Value="False">
+                       <Setter Property="Source" Value="off06.png" />
+                   </DataTrigger>
+               </Image.Triggers>
+            <Image.Effects>
+                <motionDetector:LongPressedEffect />
+                <motionDetector:TapPressedEffect />
+            </Image.Effects>
+        </Image>
+
+           <Image x:Name="Off05" Source="on05.png"
+                  Aspect="Fill"
+                  BackgroundColor="Black"
+                  AbsoluteLayout.LayoutBounds="0, 0.48, 1, 0.06"
+                  AbsoluteLayout.LayoutFlags="All"
+                  IsVisible="{Binding IsVisible}"
+                  motionDetector:LongPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:LongPressedEffect.CommandParameter="5"
+                  motionDetector:TapPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:TapPressedEffect.CommandParameter="5">
+            <Image.GestureRecognizers>
+                   <TapGestureRecognizer Command="{Binding ChangeCurrentBarCommand}" CommandParameter="5"/>
+               </Image.GestureRecognizers>
+               <Image.Triggers>
+                   <DataTrigger TargetType="Image"
+                                Binding="{Binding Bar5}"
+                                Value="False">
+                       <Setter Property="Source" Value="off05.png" />
+                   </DataTrigger>
+               </Image.Triggers>
+            <Image.Effects>
+                <motionDetector:LongPressedEffect />
+                <motionDetector:TapPressedEffect />
+            </Image.Effects>
+        </Image>
+
+        <Image x:Name="Off04" Source="on04.png"
+                  Aspect="Fill"
+                  BackgroundColor="Black"
+                  AbsoluteLayout.LayoutBounds="0, 0.54, 1, 0.06"
+                  AbsoluteLayout.LayoutFlags="All"
+                  IsVisible="{Binding IsVisible}"
+                  motionDetector:LongPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:LongPressedEffect.CommandParameter="4"
+               motionDetector:TapPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:TapPressedEffect.CommandParameter="4">
+            <Image.GestureRecognizers>
+                   <TapGestureRecognizer Command="{Binding ChangeCurrentBarCommand}" CommandParameter="4"/>
+               </Image.GestureRecognizers>
+               <Image.Triggers>
+                   <DataTrigger TargetType="Image"
+                                Binding="{Binding Bar4}"
+                                Value="False">
+                       <Setter Property="Source" Value="off04.png" />
+                   </DataTrigger>
+               </Image.Triggers>
+            <Image.Effects>
+                <motionDetector:LongPressedEffect />
+                <motionDetector:TapPressedEffect />
+            </Image.Effects>
+        </Image>
+
+           <!--<Image x:Name="Empty4" 
+                  BackgroundColor="Black"
+                  AbsoluteLayout.LayoutBounds="0, 0.60, 1, 0.02"
+                  AbsoluteLayout.LayoutFlags="All"
+                  IsVisible="{Binding IsVisible}"
+                  >
+               <Image.GestureRecognizers>
+                   <TapGestureRecognizer Command="{Binding ChangeCurrentBarCommand}" CommandParameter="-1"></TapGestureRecognizer>
+               </Image.GestureRecognizers>
+              
+           </Image>-->
+
+        <Image x:Name="Off03" Source="on03.png"
+                  Aspect="Fill"
+                  BackgroundColor="Black"
+                  AbsoluteLayout.LayoutBounds="0, 0.61, 1, 0.06"
+                  AbsoluteLayout.LayoutFlags="All"
+                  IsVisible="{Binding IsVisible}"
+                  motionDetector:LongPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:LongPressedEffect.CommandParameter="3"
+               motionDetector:TapPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:TapPressedEffect.CommandParameter="3">
+            <Image.GestureRecognizers>
+                   <TapGestureRecognizer Command="{Binding ChangeCurrentBarCommand}" CommandParameter="3"/>
+               </Image.GestureRecognizers>
+               <Image.Triggers>
+                   <DataTrigger TargetType="Image"
+                                Binding="{Binding Bar3}"
+                                Value="False">
+                       <Setter Property="Source" Value="off03.png" />
+                   </DataTrigger>
+               </Image.Triggers>
+            <Image.Effects>
+                <motionDetector:LongPressedEffect />
+                <motionDetector:TapPressedEffect />
+            </Image.Effects>
+        </Image>
+
+        <Image x:Name="Off02" Source="on02.png"
+                  Aspect="Fill"
+                  BackgroundColor="Black"
+                  AbsoluteLayout.LayoutFlags="All"
+                  IsVisible="{Binding IsVisible}"
+                  AbsoluteLayout.LayoutBounds="0, 0.68, 1, 0.06"
+                  motionDetector:LongPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:LongPressedEffect.CommandParameter="2"
+               motionDetector:TapPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:TapPressedEffect.CommandParameter="2">
+            <Image.GestureRecognizers>
+                   <TapGestureRecognizer Command="{Binding ChangeCurrentBarCommand}" CommandParameter="2"/>
+               </Image.GestureRecognizers>
+               <Image.Triggers>
+                   <DataTrigger TargetType="Image"
+                                Binding="{Binding Bar2}"
+                                Value="False">
+                       <Setter Property="Source" Value="off02.png" />
+                   </DataTrigger>
+               </Image.Triggers>
+            <Image.Effects>
+                <motionDetector:LongPressedEffect />
+                <motionDetector:TapPressedEffect />
+            </Image.Effects>
+        </Image>
+
+        <Image x:Name="Off01" Source="on01.png"
+                  Aspect="Fill"
+                  BackgroundColor="Black"
+                  AbsoluteLayout.LayoutFlags="All"
+                  IsVisible="{Binding IsVisible}"
+                  AbsoluteLayout.LayoutBounds="0, 0.74, 1, 0.06"
+                  motionDetector:LongPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:LongPressedEffect.CommandParameter="1"
+                  motionDetector:TapPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:TapPressedEffect.CommandParameter="1">
+            <Image.GestureRecognizers>
+                   <TapGestureRecognizer Command="{Binding ChangeCurrentBarCommand}" CommandParameter="1"/>
+               </Image.GestureRecognizers>
+               <Image.Triggers>
+                   <DataTrigger TargetType="Image"
+                                Binding="{Binding Bar1}"
+                                Value="False">
+                       <Setter Property="Source" Value="off01.png" />
+                   </DataTrigger>
+               </Image.Triggers>
+            <Image.Effects>
+                <motionDetector:LongPressedEffect />
+                <motionDetector:TapPressedEffect />
+            </Image.Effects>
+        </Image>
+
+           <Image x:Name="Empty5" 
+                  BackgroundColor="Black"
+                  AbsoluteLayout.LayoutFlags="All"
+                  IsVisible="{Binding IsVisible}"
+                  AbsoluteLayout.LayoutBounds="0, 0.80, 1, 0.02"
+                  motionDetector:LongPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:LongPressedEffect.CommandParameter="-1"
+                  motionDetector:TapPressedEffect.Command="{Binding ChangeCurrentBarCommand}" motionDetector:TapPressedEffect.CommandParameter="-1">
+            <Image.GestureRecognizers>
+                <TapGestureRecognizer Command="{Binding ChangeCurrentBarCommand}" CommandParameter="-1"></TapGestureRecognizer>
+            </Image.GestureRecognizers>
+            <Image.Effects> 
+                <motionDetector:LongPressedEffect />
+                <motionDetector:TapPressedEffect />
+            </Image.Effects>
+        </Image>
+
+           <Grid IsVisible="{Binding IsVisible}"
+                  AbsoluteLayout.LayoutFlags="All"
+                  AbsoluteLayout.LayoutBounds="0, 0.92, 1, 0.16">
+                   <Grid.ColumnDefinitions>
+                       <ColumnDefinition/>
+                       <ColumnDefinition/>
+                       <ColumnDefinition/>
+                   </Grid.ColumnDefinitions>
+                   <Image x:Name="Giroscopio" 
+                          BackgroundColor="Black" 
+                          Grid.Column="0"
+                          motionDetector:LongPressedEffect.Command="{Binding ChangeModeCommand}" motionDetector:LongPressedEffect.CommandParameter="Bloqueo"
+                          motionDetector:TapPressedEffect.Command="{Binding ChangeModeCommand}" motionDetector:TapPressedEffect.CommandParameter="Giroscopio">
+                       <Image.Effects>
+                           <motionDetector:LongPressedEffect />
+                           <motionDetector:TapPressedEffect />
+                       </Image.Effects>
+                  </Image>
+                   
+                   <Image x:Name="Off" 
+                          motionDetector:LongPressedEffect.Command="{Binding ShowMenuCommand}"
+                          motionDetector:TapPressedEffect.Command="{Binding PowerCommand}"
+                          Source="{Binding On, Converter={StaticResource ChangeImageByBool}, ConverterParameter=power}" 
+                          Grid.Column="1">
+                        <Image.Effects>
+                            <motionDetector:LongPressedEffect />
+                            <motionDetector:TapPressedEffect />
+                       </Image.Effects>
+                   </Image>
+
+                   <Image x:Name="Numerico" 
+                          BackgroundColor="Black" 
+                          Grid.Column="2"
+                          motionDetector:LongPressedEffect.Command="{Binding ChangeModeCommand}" motionDetector:LongPressedEffect.CommandParameter="Bloqueo"
+                          motionDetector:TapPressedEffect.Command="{Binding ChangeModeCommand}" motionDetector:TapPressedEffect.CommandParameter="Numerico">
+                       <Image.Effects>
+                           <motionDetector:LongPressedEffect />
+                           <motionDetector:TapPressedEffect />
+                       </Image.Effects>
+                   </Image>
+           </Grid>
+       </AbsoluteLayout>
+</ContentPage>

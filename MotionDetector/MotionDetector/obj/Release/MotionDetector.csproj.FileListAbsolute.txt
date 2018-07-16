@@ -1,0 +1,283 @@
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\MotionDetector.dll.config
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\MotionDetector.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\MotionDetector.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.Extras.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Mono.Android.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Rg.Plugins.Popup.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Rg.Plugins.Popup.Platform.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Core.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Platform.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Xaml.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Drawing.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Configuration.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Data.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.DirectoryServices.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.EnterpriseServices.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.RegularExpressions.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Design.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.ApplicationServices.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.ComponentModel.DataAnnotations.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.DirectoryServices.Protocols.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Security.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Caching.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.ServiceProcess.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.Services.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Utilities.v4.0.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Framework.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Tasks.v4.0.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Windows.Forms.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Transactions.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Numerics.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Remoting.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Data.OracleClient.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Accessibility.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Drawing.Design.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Serialization.Formatters.Soap.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Configuration.Install.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Xaml.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Deployment.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.Extras.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Practices.ServiceLocation.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Mono.Android.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Mono.Android.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Core.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Core.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Xaml.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Xaml.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Drawing.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Configuration.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Data.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.DirectoryServices.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.EnterpriseServices.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.RegularExpressions.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Design.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.ApplicationServices.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.ComponentModel.DataAnnotations.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.DirectoryServices.Protocols.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Security.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Caching.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.ServiceProcess.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.Services.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Utilities.v4.0.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Framework.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Tasks.v4.0.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Windows.Forms.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Transactions.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Numerics.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Remoting.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Data.OracleClient.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\Accessibility.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Drawing.Design.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Serialization.Formatters.Soap.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Configuration.Install.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Xaml.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Deployment.xml
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.EnterpriseServices.Wrapper.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.csproj.CoreCompileInputs.cache
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.App.xaml.g.cs
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Pages.Maqueta.xaml.g.cs
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Pages.MenuPage.xaml.g.cs
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Pages.RootPage.xaml.g.cs
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Views.PopupHoldPage.xaml.g.cs
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Pages.PasswordPage.xaml.g.cs
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Views.PinView.xaml.g.cs
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Views.IosPinView.xaml.g.cs
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.dll
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.pdb
+E:\WORK Mio\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.csprojResolveAssemblyReference.cache
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\MotionDetector.dll.config
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\MotionDetector.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\MotionDetector.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.Extras.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Mono.Android.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Rg.Plugins.Popup.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Rg.Plugins.Popup.Platform.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Core.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Platform.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Xaml.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Drawing.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Configuration.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Data.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.DirectoryServices.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.EnterpriseServices.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.RegularExpressions.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Design.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.ApplicationServices.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.ComponentModel.DataAnnotations.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.DirectoryServices.Protocols.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Security.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Caching.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.ServiceProcess.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.Services.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Utilities.v4.0.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Framework.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Tasks.v4.0.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Windows.Forms.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Transactions.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Numerics.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Remoting.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Data.OracleClient.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Accessibility.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Drawing.Design.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Serialization.Formatters.Soap.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Configuration.Install.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Xaml.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Deployment.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.Extras.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Mono.Android.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Mono.Android.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Core.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Core.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Xaml.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Xaml.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Drawing.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Configuration.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Data.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.DirectoryServices.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.EnterpriseServices.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.RegularExpressions.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Design.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.ApplicationServices.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.ComponentModel.DataAnnotations.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.DirectoryServices.Protocols.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Security.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Caching.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.ServiceProcess.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.Services.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Utilities.v4.0.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Framework.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Tasks.v4.0.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Windows.Forms.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Transactions.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Numerics.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Remoting.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Data.OracleClient.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\Accessibility.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Drawing.Design.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Serialization.Formatters.Soap.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Configuration.Install.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Xaml.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Deployment.xml
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.EnterpriseServices.Wrapper.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.csproj.CoreCompileInputs.cache
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.App.xaml.g.cs
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Pages.Maqueta.xaml.g.cs
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Pages.MenuPage.xaml.g.cs
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Pages.RootPage.xaml.g.cs
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Views.PopupHoldPage.xaml.g.cs
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Pages.PasswordPage.xaml.g.cs
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Views.PinView.xaml.g.cs
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Views.IosPinView.xaml.g.cs
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.dll
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.pdb
+D:\WORK\Xamarin\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.csprojResolveAssemblyReference.cache
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Windows.Forms.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\MotionDetector.dll.config
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\MotionDetector.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\MotionDetector.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.Extras.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Rg.Plugins.Popup.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Rg.Plugins.Popup.Platform.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Core.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Platform.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Xaml.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Drawing.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Configuration.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Data.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.DirectoryServices.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.EnterpriseServices.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.RegularExpressions.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Design.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.ApplicationServices.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.ComponentModel.DataAnnotations.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.DirectoryServices.Protocols.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Security.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Caching.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.ServiceProcess.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.Services.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Utilities.v4.0.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Framework.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Tasks.v4.0.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Transactions.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Numerics.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Remoting.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Data.OracleClient.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Accessibility.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Drawing.Design.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Serialization.Formatters.Soap.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Configuration.Install.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Xaml.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Deployment.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\GalaSoft.MvvmLight.Extras.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Core.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Core.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Xaml.pdb
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Xamarin.Forms.Xaml.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Drawing.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Configuration.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Data.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.DirectoryServices.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.EnterpriseServices.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.RegularExpressions.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Design.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.ApplicationServices.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.ComponentModel.DataAnnotations.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.DirectoryServices.Protocols.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Security.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Caching.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.ServiceProcess.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Web.Services.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Utilities.v4.0.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Framework.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Microsoft.Build.Tasks.v4.0.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Windows.Forms.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Transactions.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Numerics.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Remoting.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Data.OracleClient.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\Accessibility.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Drawing.Design.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Runtime.Serialization.Formatters.Soap.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Configuration.Install.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Xaml.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.Deployment.xml
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\bin\Release\System.EnterpriseServices.Wrapper.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.csprojAssemblyReference.cache
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.csproj.CoreCompileInputs.cache
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.App.xaml.g.cs
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Pages.Maqueta.xaml.g.cs
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Pages.MenuPage.xaml.g.cs
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Pages.RootPage.xaml.g.cs
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Views.PopupHoldPage.xaml.g.cs
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Pages.PasswordPage.xaml.g.cs
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Views.PinView.xaml.g.cs
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.Views.IosPinView.xaml.g.cs
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.csproj.CopyComplete
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.dll
+D:\DATA\4\MotionDetector\MotionDetector\MotionDetector\MotionDetector\obj\Release\MotionDetector.pdb
